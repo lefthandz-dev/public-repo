@@ -1,4 +1,1 @@
 # public-repo
-
-This is a secret
-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
